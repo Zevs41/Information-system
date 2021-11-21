@@ -41,7 +41,7 @@ namespace Курсовая
                 MessageBox.Show("Succesfull");
                 Form2 form2 = new Form2();
                 form2.Show();
-                this.Hide();
+                //this.Hide();
             }
             else
             {
